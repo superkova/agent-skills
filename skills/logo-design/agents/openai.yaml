@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logo Design"
+  short_description: "Design distinctive logos for real brand applications"
+  default_prompt: "Use $logo-design to develop a logo from my brief, compare concepts in their intended placements, and prepare the final assets."

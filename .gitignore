@@ -1,0 +1,18 @@
+# Local review notes and source inventories
+.private/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated files and caches
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+output/
+dist/
