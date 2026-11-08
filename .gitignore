@@ -16,3 +16,6 @@ __pycache__/
 node_modules/
 output/
 dist/
+
+# Downloaded font cache
+skills/linkedin-carousel/scripts/fonts/

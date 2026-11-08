@@ -1,6 +1,6 @@
 # Agent skills
 
-A curated collection of my agent workflows, starting with logo design.
+A curated collection of my agent workflows, covering design, visual content, and product-category writing.
 
 Each skill is a self-contained folder with a `SKILL.md` entry point and any supporting references. The instructions describe the work; tool access depends on the agent running them.
 
@@ -9,6 +9,10 @@ Each skill is a self-contained folder with a `SKILL.md` entry point and any supp
 | Skill | Use it for | Requirements |
 | --- | --- | --- |
 | [Logo design](skills/logo-design/SKILL.md) | Develop, refine, or critique logos; compare concepts in realistic placements; prepare usable vector assets. | A way to create and inspect vector artwork. Web access for competitor research when needed. |
+
+| [Category product decision blog](skills/category-product-decision-blog/SKILL.md) | Research a software category and write a practical provider comparison. | Web research; optional author voice examples. |
+| [LinkedIn carousel](skills/linkedin-carousel/SKILL.md) | Render branded carousel PDFs. | Python, ReportLab, fontTools, Pillow; network for first-use fonts. |
+| [Thought-provoking visual](skills/thought-provoking-visual/SKILL.md) | Create abstract geometric PNGs and optional animated GIFs. | Python, Pillow, CairoSVG and native Cairo. |
 
 ## Use a skill
 
